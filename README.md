@@ -10,7 +10,7 @@
 
 ## Exam Objectives
 
-### Understand infrastructure as code (IaC) concepts
+Understand infrastructure as code (IaC) concepts
 * Explain what IaC is
 * Describe advantages of IaC patterns
 
@@ -66,3 +66,4 @@ Understand Terraform Cloud capabilities
 * Explain how Terraform Cloud helps to manage infrastructure
 * Describe how Terraform Cloud enables collaboration and governance
 
+*End of Section*
