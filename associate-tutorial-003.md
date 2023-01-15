@@ -1,7 +1,7 @@
 # [Associate Tutorial List (003)](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003)
 
 
-<details class="faq box"><summary>[What is Infrastructure as Code with Terraform?](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/infrastructure-as-code)</summary>
+<details class="faq box"><summary>What is Infrastructure as Code with Terraform?</summary>
 <p>
 * Learn how infrastructure as code lets you safely build, change, and manage infrastructure. 
 * Try Terraform.
@@ -9,7 +9,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Lock and Upgrade Provider Versions](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/provider-versioning)</summary>
+<details class="faq box"><summary>Lock and Upgrade Provider Versions</summary>
 <p>
 * Manage your provider versions using the dependency lock file. 
 * Use version constraints to filter provider versions compatible with your configuration. Update your lock file to use a new provider version.
@@ -17,7 +17,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Build Infrastructure](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/aws-build)</summary>
+<details class="faq box"><summary>Build Infrastructure</summary>
 <p>
 * Authenticate to AWS and create an EC2 instance under the AWS free tier. 
 * Write and validate Terraform configuration, initialize a configuration directory, and plan and apply a configuration to create infrastructure.
@@ -25,7 +25,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Change Infrastructure](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/aws-change)</summary>
+<details class="faq box"><summary>Change Infrastructure</summary>
 <p>
 * Modify EC2-instance configuration to use a different Ubuntu version. 
 * Plan and apply the changes to re-provision a new instance that reflects the new configuration. 
@@ -34,7 +34,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Destroy Infrastructure](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/aws-destroy)</summary>
+<details class="faq box"><summary>Destroy Infrastructure</summary>
 <p>
 * Destroy the AWS EC2 instance you created in the previous tutorials. 
 * Evaluate the plan and confirm the destruction.
@@ -42,7 +42,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Store Remote State](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/aws-remote)</summary>
+<details class="faq box"><summary>Store Remote State</summary>
 <p>
 * Configure Terraform to store state in Terraform Cloud. 
 * Add a remote state block directly to configuration or set an environment variable to load remote state configuration when Terraform initializes.
@@ -50,7 +50,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Initialize Terraform Configuration](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/init)</summary>
+<details class="faq box"><summary>Initialize Terraform Configuration</summary>
 <p>
 * Learn what Terraform does when you run `terraform init` in a working directory. 
 * Initialize the backend, install providers, download modules, and explore the lock file and .terraform directory.
@@ -58,7 +58,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Create a Terraform Plan](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/plan)</summary>
+<details class="faq box"><summary>Create a Terraform Plan</summary>
 <p>
 * Learn how Terraform constructs an execution plan. 
 * Export a plan with the -out flag, review the plan contents, and apply a saved plan.
@@ -66,7 +66,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Apply Terraform Configuration](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/apply)</summary>
+<details class="faq box"><summary>Apply Terraform Configuration</summary>
 <p>
 * Learn how Terraform applies configuration to change your infrastructure. 
 * Provision a Docker container, introduce an apply error, note how Terraform handles errors, and perform basic troubleshooting.
@@ -74,7 +74,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Manage Terraform Versions](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/versions)</summary>
+<details class="faq box"><summary>Manage Terraform Versions</summary>
 <p>
 * Update an existing configuration to work with a newer version of Terraform. 
 * Use the required_version setting to pin the Terraform versions for your projects. 
@@ -83,7 +83,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Customize Terraform Configuration with Variables](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/variables)</summary>
+<details class="faq box"><summary>Customize Terraform Configuration with Variables</summary>
 <p>
 * Customize infrastructure for a web application with Terraform. 
 * In this tutorial, you will use Terraform input variables, including lists, maps, strings, and booleans, to make the configuration for your infrastructure more flexible.
@@ -91,14 +91,14 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Protect Sensitive Input Variables](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/sensitive-variables)</summary>
+<details class="faq box"><summary>Protect Sensitive Input Variables</summary>
 <p>
 * Protect sensitive values from accidental exposure using Terraform sensitive input variables. Provision a web application with Terraform, and mark input variables as sensitive to restrict when Terraform prints them out to the console.
 </p>
 </details>
 <br />
 
-<details class="faq box"><summary>[Output Data from Terraform](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/outputs)</summary>
+<details class="faq box"><summary>Output Data from Terraform</summary>
 <p>
 * Output data about infrastructure with Terraform outputs. 
 * Provision a web application with Terraform, and use output values to export data about your application's infrastructure. 
@@ -107,7 +107,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Query Data Sources](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/data-sources)</summary>
+<details class="faq box"><summary>Query Data Sources</summary>
 <p>
 * Use a data source to configure an EC2 instance with an appropriate AMI for the current region. 
 * Use a remote state data source to share data between Terraform projects and to support multiple availability zones.
@@ -115,7 +115,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Create Resource Dependencies](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/dependencies)</summary>
+<details class="faq box"><summary>Create Resource Dependencies</summary>
 <p>
 * Create an implicit dependency between an EC2 instance and its Elastic IP using variable interpolation. 
 * Create explicit dependencies on an S3 Bucket and SQS Queue with depends_on. 
@@ -124,14 +124,14 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Perform Dynamic Operations with Functions](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/functions)</summary>
+<details class="faq box"><summary>Perform Dynamic Operations with Functions</summary>
 <p>
 * Use templatefile and lookup functions to generate dynamic user data for an EC2 instance and find a region-specific AMI.
 </p>
 </details>
 <br />
 
-<details class="faq box"><summary>[Create Dynamic Expressions](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/expressions)</summary>
+<details class="faq box"><summary>Create Dynamic Expressions</summary>
 <p>
 * Make your Terraform configurations more dynamic and reusable with expressions. 
 * Use locals to assign expressions to variables for reuse, conditionals to declare if/then scenarios, and the splat expression to return attributes from complex value types.
@@ -139,7 +139,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Modules Overview](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/module)</summary>
+<details class="faq box"><summary>Modules Overview</summary>
 <p>
 * Read about how Terraform modules make configuration easier to organize, understand, reuse, and share. 
 * Learn about the directory structure of a module, and how to call them.
@@ -147,7 +147,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Use Registry Modules in Configuration](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/module-use)</summary>
+<details class="faq box"><summary>Use Registry Modules in Configuration</summary>
 <p>
 * Use modules from the public Terraform Registry to define an Amazon VPC containing two EC2 instances. 
 * Select module and root input and output variables, install the modules, and apply the configuration.
@@ -155,7 +155,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Build and Use a Local Module](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/module-create)</summary>
+<details class="faq box"><summary>Build and Use a Local Module</summary>
 <p>
 * Write a local module to create an Amazon S3 bucket hosting a static website. 
 * Create a module directory, write the module configuration, variables, and outputs, and call the module from a root configuration.
@@ -163,7 +163,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Refactor Monolithic Terraform Configuration](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/organize-configuration)</summary>
+<details class="faq box"><summary>Refactor Monolithic Terraform Configuration</summary>
 <p>
 * Deploy development and production versions of an S3-hosted static website. 
 * Separate their configuration into files, directories, and workspaces, and explore the architectural trade-offs of each approach.
@@ -171,7 +171,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Module Creation - Recommended Pattern](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/pattern-module-creation)</summary>
+<details class="faq box"><summary>Module Creation - Recommended Pattern</summary>
 <p>
 * Learn the architectural recommendations for module creation distilled from engagements with large enterprises using Terraform. 
 * Use Terraform module best practices to scope, build, improve and consume Terraform modules.
@@ -179,7 +179,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Manage Resources in Terraform State](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/state-cli)</summary>
+<details class="faq box"><summary>Manage Resources in Terraform State</summary>
 <p>
 * Create an EC2 instance and security group, and move a resource to another state file. 
 * Remove, replace, and re-import resources to manage state and reconcile drift in your infrastructure.
@@ -187,7 +187,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Import Terraform Configuration](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/state-import)</summary>
+<details class="faq box"><summary>Import Terraform Configuration</summary>
 <p>
 * Import existing infrastructure into Terraform. 
 * In this tutorial, you will use Terraform import to manage an existing Docker container and learn important considerations to keep in mind when importing infrastructure into Terraform.
@@ -195,7 +195,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Target Resources](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/resource-targeting)</summary>
+<details class="faq box"><summary>Target Resources</summary>
 <p>
 * Apply changes to an AWS S3 bucket and bucket objects using resource targeting. 
 * Target individual resources, modules, and collections of resources to change or destroy. 
@@ -204,7 +204,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Manage Resource Drift](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/resource-drift)</summary>
+<details class="faq box"><summary>Manage Resource Drift</summary>
 <p>
 * Create an AWS instance and security group. 
 * Manually change the instance to create drift in your Terraform state file. 
@@ -213,7 +213,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Use Refresh-Only Mode to Sync Terraform State](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/refresh)</summary>
+<details class="faq box"><summary>Use Refresh-Only Mode to Sync Terraform State</summary>
 <p>
 * Use refresh-only plans and applies to update Terraform state to match real-world infrastructure. 
 * Understand the implicit refresh behavior in Terraform plan and apply operations.
@@ -221,7 +221,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Troubleshoot Terraform](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/troubleshooting-workflow)</summary>
+<details class="faq box"><summary>Troubleshoot Terraform</summary>
 <p>
 * Interpret and fix a Terraform configuration with common configuration language errors and deploy an EC2 instance with security groups in AWS. 
 * Learn best practices for logging application errors and reporting bugs.
@@ -229,7 +229,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Inject Secrets into Terraform Using the Vault Provider](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/secrets-vault)</summary>
+<details class="faq box"><summary>Inject Secrets into Terraform Using the Vault Provider</summary>
 <p>
 * Configure the AWS Secrets Engine to manage IAM credentials in Vault through Terraform. 
 * Then use the short-lived, Vault-generated, dynamic secrets to provision EC2 instances.
@@ -237,28 +237,28 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Log in to Terraform Cloud from the CLI](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-login)</summary>
+<details class="faq box"><summary>Log in to Terraform Cloud from the CLI</summary>
 <p>
 * Log into Terraform Cloud or Enterprise with the Terraform CLI to migrate state, trigger remote runs, and interact with Terraform Cloud.
 </p>
 </details>
 <br />
 
-<details class="faq box"><summary>[Migrate State to Terraform Cloud](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-migrate)</summary>
+<details class="faq box"><summary>Migrate State to Terraform Cloud</summary>
 <p>
 * Migrate a state file to Terraform Cloud for secure storage and easy collaboration.
 </p>
 </details>
 <br />
 
-<details class="faq box"><summary>[What is Terraform Cloud - Intro and Sign Up](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-sign-up)</summary>
+<details class="faq box"><summary>What is Terraform Cloud - Intro and Sign Up</summary>
 <p>
 * Sign up for Terraform Cloud, which provides free remote state storage, a stable run environment, version control system (VCS) driven plans and applies, a collaborative web GUI, and more. Create your first organization.
 </p>
 </details>
 <br />
 
-<details class="faq box"><summary>[Create a Credentials Variable Set](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-create-variable-set)</summary>
+<details class="faq box"><summary>Create a Credentials Variable Set</summary>
 <p>
 * Create a variable set for your AWS IAM credentials that you can reuse across workspaces. 
 * Apply the variable set to a workspace.
@@ -266,14 +266,14 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Create a Workspace](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-workspace-create)</summary>
+<details class="faq box"><summary>Create a Workspace</summary>
 <p>
 * Create a CLI-driven Terraform Cloud workspace. Update configuration to enable integration with Terraform Cloud.
 </p>
 </details>
 <br />
 
-<details class="faq box"><summary>[Create Infrastructure](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-workspace-configure)</summary>
+<details class="faq box"><summary>Create Infrastructure</summary>
 <p>
 * Set EC2 instance attributes using Terraform Cloud workspace variables. 
 * Create the instance by planning and applying a run in Terraform Cloud.
@@ -281,7 +281,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Change Infrastructure](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-change)</summary>
+<details class="faq box"><summary>Change Infrastructure</summary>
 <p>
 * Use command line input variables to modify infrastructure managed by Terraform Cloud. 
 * Review workspace contents and interface.
@@ -289,7 +289,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Use VCS-Driven Workflow](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-vcs-change)</summary>
+<details class="faq box"><summary>Use VCS-Driven Workflow</summary>
 <p>
 * Update a workspace to use the version control system-driven workflow with GitHub. 
 * Queue a speculative plan by opening a pull request.
@@ -297,7 +297,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>[Destroy Resources and Workspaces](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-destroy)</summary>
+<details class="faq box"><summary>Destroy Resources and Workspaces</summary>
 <p>
 * Destroy the resources in a Terraform Cloud workspace, and delete the workspace via the web UI.
 </p>
