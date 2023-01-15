@@ -1,7 +1,7 @@
 # [Associate Tutorial List (003)](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003)
 
 
-<details class="faq box"><summary>What is Infrastructure as Code with Terraform?</summary>
+<details class="faq box"><summary>[What is Infrastructure as Code with Terraform?](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/infrastructure-as-code)</summary>
 <p>
 
 * Learn how infrastructure as code lets you safely build, change, and manage infrastructure. 
