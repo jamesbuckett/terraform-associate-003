@@ -1,7 +1,7 @@
 # [Associate Tutorial List (003)](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003)
 
 
-<details class="faq box"><summary>First Hour - Terraform Introduction</summary>
+<details class="faq box"><summary># First Hour - Terraform Introduction</summary>
 <p>
 
 <details class="faq box"><summary>What is Infrastructure as Code with Terraform?</summary>
