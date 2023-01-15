@@ -1,6 +1,9 @@
 # [Associate Tutorial List (003)](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003)
 
 
+<details class="faq box"><summary>First Hour</summary>
+<p>
+
 <details class="faq box"><summary>What is Infrastructure as Code with Terraform?</summary>
 <p>
 
@@ -57,6 +60,13 @@
 </details>
 <br />
 
+</p>
+</details>
+<br />
+
+<details class="faq box"><summary>Second Hour</summary>
+<p>
+
 <details class="faq box"><summary>Store Remote State</summary>
 <p>
 
@@ -112,6 +122,13 @@
 </p>
 </details>
 <br />
+
+</p>
+</details>
+<br />
+
+<details class="faq box"><summary>Third Hour</summary>
+<p>
 
 <details class="faq box"><summary>Customize Terraform Configuration with Variables</summary>
 <p>
@@ -191,6 +208,13 @@
 </details>
 <br />
 
+</p>
+</details>
+<br />
+
+<details class="faq box"><summary>Fourth Hour</summary>
+<p>
+
 <details class="faq box"><summary>Modules Overview</summary>
 <p>
 
@@ -245,6 +269,13 @@
 </p>
 </details>
 <br />
+
+</p>
+</details>
+<br />
+
+<details class="faq box"><summary>Fifth Hour</summary>
+<p>
 
 <details class="faq box"><summary>Manage Resources in Terraform State</summary>
 <p>
@@ -314,6 +345,13 @@
 </details>
 <br />
 
+</p>
+</details>
+<br />
+
+<details class="faq box"><summary>Sixth Hour</summary>
+<p>
+
 <details class="faq box"><summary>Inject Secrets into Terraform Using the Vault Provider</summary>
 <p>
 
@@ -377,6 +415,13 @@
 </details>
 <br />
 
+</p>
+</details>
+<br />
+
+<details class="faq box"><summary>Seventh Hour</summary>
+<p>
+
 <details class="faq box"><summary>Create Infrastructure</summary>
 <p>
 
@@ -415,6 +460,10 @@
 
 [Destroy Resources and Workspaces](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/cloud-destroy)
 * Destroy the resources in a Terraform Cloud workspace, and delete the workspace via the web UI.
+
+</p>
+</details>
+<br />
 
 </p>
 </details>
