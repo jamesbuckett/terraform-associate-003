@@ -1,7 +1,7 @@
 # [Associate Tutorial List (003)](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003)
 
 
-<details class="faq box"><summary>First Hour</summary>
+<details class="faq box"><summary>First Hour - Terraform Introduction</summary>
 <p>
 
 <details class="faq box"><summary>What is Infrastructure as Code with Terraform?</summary>
@@ -64,7 +64,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>Second Hour</summary>
+<details class="faq box"><summary>Second Hour - Terraform Local Workflow</summary>
 <p>
 
 <details class="faq box"><summary>Store Remote State</summary>
@@ -127,7 +127,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>Third Hour</summary>
+<details class="faq box"><summary>Third Hour - Variables, Outputs, Data SOurces</summary>
 <p>
 
 <details class="faq box"><summary>Customize Terraform Configuration with Variables</summary>
@@ -212,7 +212,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>Fourth Hour</summary>
+<details class="faq box"><summary>Fourth Hour - Modules</summary>
 <p>
 
 <details class="faq box"><summary>Modules Overview</summary>
@@ -274,7 +274,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>Fifth Hour</summary>
+<details class="faq box"><summary>Fifth Hour - Terraform State</summary>
 <p>
 
 <details class="faq box"><summary>Manage Resources in Terraform State</summary>
@@ -349,7 +349,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>Sixth Hour</summary>
+<details class="faq box"><summary>Sixth Hour - Terraform Cloud</summary>
 <p>
 
 <details class="faq box"><summary>Inject Secrets into Terraform Using the Vault Provider</summary>
@@ -419,7 +419,7 @@
 </details>
 <br />
 
-<details class="faq box"><summary>Seventh Hour</summary>
+<details class="faq box"><summary>Seventh Hour - Terraform Cloud Workflow</summary>
 <p>
 
 <details class="faq box"><summary>Create Infrastructure</summary>
