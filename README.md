@@ -10,9 +10,16 @@
 
 ## Exam Objectives
 
+<details class="faq box"><summary>[Understand infrastructure as code (IaC) concepts](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003#learn-about-infrastructure-as-code-iac)</summary>
+<p>
+
 [Understand infrastructure as code (IaC) concepts](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003#learn-about-infrastructure-as-code-iac)
 * Explain what IaC is
 * Describe advantages of IaC patterns
+
+</p>
+</details>
+<br />
 
 Understand the purpose of Terraform (vs other IaC)
 * Explain multi-cloud and provider-agnostic benefits
