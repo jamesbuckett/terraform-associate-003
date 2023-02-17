@@ -30,7 +30,6 @@ Understand the purpose of Terraform (vs other IaC)
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Understand Terraform basics</summary>
 <p>
@@ -43,7 +42,6 @@ Understand the purpose of Terraform (vs other IaC)
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Use the core Terraform workflow</summary>
 <p>
@@ -59,7 +57,6 @@ Understand the purpose of Terraform (vs other IaC)
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Use Terraform outside of core workflow</summary>
 <p>
@@ -71,7 +68,6 @@ Understand the purpose of Terraform (vs other IaC)
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Interact with Terraform modules</summary>
 <p>
@@ -84,7 +80,6 @@ Understand the purpose of Terraform (vs other IaC)
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Implement and maintain state</summary>
 <p>
@@ -100,7 +95,6 @@ Understand the purpose of Terraform (vs other IaC)
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Read, generate, and modify configuration</summary>
 <p>
@@ -116,7 +110,6 @@ Read, generate, and modify configuration
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Understand Terraform Cloud capabilities</summary>
 <p>
@@ -127,6 +120,5 @@ Read, generate, and modify configuration
 
 </p>
 </details>
-<br />
 
 *End of Section*
