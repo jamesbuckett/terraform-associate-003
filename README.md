@@ -120,4 +120,23 @@ Read, generate, and modify configuration
 </p>
 </details>
 
+## Preparation Steps 
+
+In order to complete this tutorial, you will need the following:
+* Terraform installed locally
+* An AWS account with local credentials configured for use with Terraform
+
+Use this link to complete the [preparation steps]()
+
+
+## Schedule 
+
+* First Hour - Terraform Introduction
+* Second Hour - Terraform Local Workflow
+* Third Hour - Variables, Outputs, Data SOurces
+* Fourth Hour - Modules
+* Fifth Hour - Terraform State
+* Sixth Hour - Terraform Cloud
+* Seventh Hour - Terraform Cloud Workflow
+
 *End of Section*
