@@ -19,7 +19,6 @@
 
 </p>
 </details>
-<br />
 
 <details class="faq box"><summary>Understand the purpose of Terraform (vs other IaC)</summary>
 <p>
